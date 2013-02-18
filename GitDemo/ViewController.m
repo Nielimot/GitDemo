@@ -32,6 +32,6 @@
 
 - (void) test{
     
-    NSLog(@"TEST!");
+    NSLog(@"POGI ME!!");
 }
 @end
