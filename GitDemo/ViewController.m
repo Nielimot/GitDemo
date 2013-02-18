@@ -30,4 +30,8 @@
     NSLog(@"clicked");
 }
 
+- (void) test{
+    
+    NSLog(@"TEST!");
+}
 @end
