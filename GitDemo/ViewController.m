@@ -33,5 +33,6 @@
 - (void) test{
     
     NSLog(@"POGI ME!!");
+    NSLog(@"Mas pogi ako");
 }
 @end
